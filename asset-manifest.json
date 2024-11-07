@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sophie-1/static/css/main.d3c9fea2.css",
+    "main.js": "/react-sophie-1/static/js/main.f3b62cf1.js",
+    "index.html": "/react-sophie-1/index.html",
+    "main.d3c9fea2.css.map": "/react-sophie-1/static/css/main.d3c9fea2.css.map",
+    "main.f3b62cf1.js.map": "/react-sophie-1/static/js/main.f3b62cf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c9fea2.css",
+    "static/js/main.f3b62cf1.js"
+  ]
+}
